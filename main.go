@@ -1,7 +1,9 @@
-package ma
+package main
 
-import "fmt"
+import (
+	"github.com/mbakalitahiri/booking/main"
+)
 
-func main() {
-	fmt.Println("Hello World")
+func chani() {
+	main.Println("Hello World")
 }
